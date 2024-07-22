@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\LibraryManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|d:\\github\\librarymanagementapplication\\wpfapp\\borrowrecorded.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\borrowrecorded.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\borrowrecorddetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\borrowrecorddetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\borrowrecorddetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\borrowrecorddetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|D:\\GitHub\\LibraryManagementApplication\\dataaccesslayer\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\usermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\usermainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\usermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\usermainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|D:\\GitHub\\LibraryManagementApplication\\dataaccesslayer\\borrowrecorddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\borrowrecorddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\borrowrecorded.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\borrowrecorded.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\reservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\reservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|D:\\GitHub\\LibraryManagementApplication\\dataaccesslayer\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|D:\\GitHub\\LibraryManagementApplication\\services\\borrowrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|solutionrelative:services\\borrowrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|D:\\GitHub\\LibraryManagementApplication\\services\\iborrowrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|solutionrelative:services\\iborrowrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\reservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\reservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D1D919-3819-4062-BC6C-933D28D4A36C}|BusinessObjects\\BusinessObjects.csproj|D:\\GitHub\\LibraryManagementApplication\\businessobjects\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D1D919-3819-4062-BC6C-933D28D4A36C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\browsereservations.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\browsereservations.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\bookmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\bookmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\bookmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\bookmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\adminmainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminmainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|D:\\GitHub\\LibraryManagementApplication\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8CAF07-3831-4A32-95B9-90C857F79676}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|D:\\GitHub\\LibraryManagementApplication\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|D:\\GitHub\\LibraryManagementApplication\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA0FED-31F7-4238-867C-95406AB7B897}|Services\\Services.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\userdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\userdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|D:\\GitHub\\LibraryManagementApplication\\wpfapp\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32040117-8137-46E2-B8C1-51908F6CC32C}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D1D919-3819-4062-BC6C-933D28D4A36C}|BusinessObjects\\BusinessObjects.csproj|D:\\GitHub\\LibraryManagementApplication\\businessobjects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D1D919-3819-4062-BC6C-933D28D4A36C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\BookDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookDAO.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\BookDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookDAO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:37:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowRecordDetail.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecordDetail.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\BorrowRecordDetail.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecordDetail.xaml.cs",
+              "RelativeToolTip": "WPFApp\\BorrowRecordDetail.xaml.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:53:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserMainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\UserMainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserMainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\UserMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T21:46:10.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRecorded.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecorded.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\BorrowRecorded.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecorded.xaml.cs",
+              "RelativeToolTip": "WPFApp\\BorrowRecorded.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:49:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowRecordDetail.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecordDetail.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\BorrowRecordDetail.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecordDetail.xaml",
+              "RelativeToolTip": "WPFApp\\BorrowRecordDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T06:14:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\LoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginForm.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\LoginForm.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginForm.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:39:44.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\UserMainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserMainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\UserMainWindow.xaml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAtwJUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:46:13.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reservation.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\Reservation.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Reservation.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\Reservation.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Reservation.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:59:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\SignUpWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\SignUpWindow.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\SignUpWindow.xaml",
+              "RelativeToolTip": "WPFApp\\SignUpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T05:50:19.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\SignUpWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\SignUpWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:59:55.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowRecordDAO.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\BorrowRecordDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BorrowRecordDAO.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\BorrowRecordDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BorrowRecordDAO.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswIIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:44:30.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminMainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\AdminMainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AdminMainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\AdminMainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\AdminMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T21:22:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\Services\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:15:19.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:11:48.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Services\\IUserServices.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Services\\IUserServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:15:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationDAO.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\ReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ReservationDAO.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\DataAccessLayer\\ReservationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:56:10.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowRecorded.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecorded.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\BorrowRecorded.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BorrowRecorded.xaml",
+              "RelativeToolTip": "WPFApp\\BorrowRecorded.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T20:39:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowRecordServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\Services\\BorrowRecordServices.cs",
+              "RelativeDocumentMoniker": "Services\\BorrowRecordServices.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\Services\\BorrowRecordServices.cs",
+              "RelativeToolTip": "Services\\BorrowRecordServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:00:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrowseReservations.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BrowseReservations.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\BrowseReservations.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BrowseReservations.xaml.cs",
+              "RelativeToolTip": "WPFApp\\BrowseReservations.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:57:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminMainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\AdminMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AdminMainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\AdminMainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AdminMainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:22:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBorrowRecordServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\Services\\IBorrowRecordServices.cs",
+              "RelativeDocumentMoniker": "Services\\IBorrowRecordServices.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\Services\\IBorrowRecordServices.cs",
+              "RelativeToolTip": "Services\\IBorrowRecordServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:00:32.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\BusinessObjects\\Book.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Book.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\BusinessObjects\\Book.cs",
+              "RelativeToolTip": "BusinessObjects\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:03:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookManagement.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BookManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\BookManagement.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BookManagement.xaml",
+              "RelativeToolTip": "WPFApp\\BookManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T20:50:05.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T21:52:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\Reservation.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Reservation.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\Reservation.xaml",
+              "RelativeToolTip": "WPFApp\\Reservation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T21:59:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookManagement.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BookManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\BookManagement.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\BookManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\BookManagement.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:52:00.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T21:39:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserManagementWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\UserManagementWindow.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserManagementWindow.xaml",
+              "RelativeToolTip": "WPFApp\\UserManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T20:49:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDetail.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserDetail.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\UserDetail.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserDetail.xaml.cs",
+              "RelativeToolTip": "WPFApp\\UserDetail.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:59:36.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\BusinessObjects\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\User.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\BusinessObjects\\User.cs",
+              "RelativeToolTip": "BusinessObjects\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:27:29.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\UserManagementWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\UserManagementWindow.xaml.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswHAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:39:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDetail.xaml",
+              "DocumentMoniker": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserDetail.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\UserDetail.xaml",
+              "ToolTip": "D:\\GitHub\\LibraryManagementApplication\\WPFApp\\UserDetail.xaml",
+              "RelativeToolTip": "WPFApp\\UserDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T21:59:37.772Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

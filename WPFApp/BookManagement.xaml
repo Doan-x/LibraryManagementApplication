@@ -1,0 +1,68 @@
+﻿<Window x:Class="WPFApp.BookManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="BookManagement" Height="450" Width="1000">
+    <Grid>
+
+        <Grid Margin="10,0,7,0" Grid.Column="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" MinHeight="30"/>
+                <RowDefinition Height="Auto" MinHeight="30"/>
+                <RowDefinition Height="100*" />
+                <RowDefinition Height="Auto" MinHeight="30"/>
+            </Grid.RowDefinitions>
+            <Label FontWeight="Bold" FontSize="24" Margin="0,10,0,0" Foreground="#FFCE1616">Manage Book</Label>
+            <StackPanel Orientation="Vertical" Grid.Row="1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="92.6"/>
+                        <ColumnDefinition Width="336.4"/>
+                        <ColumnDefinition Width="auto" MinWidth="100"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.ColumnSpan="2">
+                        <TextBox Name="txtSearch" MinWidth="300"/>
+                        <Button Content="Search" Name="btnSearch" Width="119" Margin="10,0,0,0" Click="btnSearch_Click"/>
+                    </StackPanel>
+
+                    <Button Name="btnAdd" Content="New Book"  Height="31" Width="100" Grid.Column="3" Click="btnAdd_Click" HorizontalAlignment="Left" Margin="154,0,0,0"/>
+                </Grid>
+            </StackPanel>
+
+            <DataGrid IsReadOnly="True"  x:Name="dgBooks" AutoGenerateColumns="False" Grid.Row="2" Margin="0,10,0,0" SelectionChanged="dgBooks_SelectionChanged_1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Book Id" Binding="{Binding book.BookId}" Width="*"/>
+                    <DataGridTextColumn Header="Title" Binding="{Binding book.Title}" MinWidth="100"/>
+                    <DataGridTextColumn Header="Author" Binding="{Binding book.Author}" Width="*"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding book.Price}" Width="*"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding book.Category.CategoryName}" Width="*"/>
+                    <DataGridTextColumn Header="Quantity" Binding="{Binding book.Quantity}" Width="*"/>
+                    <DataGridTextColumn Header="Date Added" Binding="{Binding book.DateAdded}" Width="*"/>
+                    <DataGridTextColumn Header="Borrowing" Binding="{Binding Borrowing}" Width="*"/>
+
+                    <DataGridTemplateColumn Header="Edit" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="btnEdit" Content=" Edit " Click="BtnEdit_Click" HorizontalAlignment="Center" Width="50"></Button>
+                            </DataTemplate>
+
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Header="Delete" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="btnDelete" Content=" Delete " Click="BtnDelete_Click" HorizontalAlignment="Center" Width="50"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+           
+        </Grid>
+    </Grid>
+</Window>

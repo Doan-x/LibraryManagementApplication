@@ -1,0 +1,68 @@
+﻿<Window x:Class="WPFApp.BookDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="BookDetail" Height="450" Width="800">
+
+    <Grid  VerticalAlignment="Top" >
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="398" Width="569" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" MinHeight="80"/>
+                <RowDefinition Height="auto" MinHeight="40"/>
+                <RowDefinition Height="auto" MinHeight="40"/>
+                <RowDefinition Height="auto" MinHeight="40"/>
+                <RowDefinition Height="auto" MinHeight="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" MinWidth="300"/>
+                <ColumnDefinition Width="300*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Add New Book" Margin="0,10,0,10" FontWeight="Bold" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Name="lbTitle"/>
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="0">
+                <Label Content="Book ID" />
+                <TextBox HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" Name="txtBookID" VerticalAlignment="Top" Width="262" IsEnabled="False"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="0">
+                <Label Content="Book Title" />
+                <TextBox HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" Name="txtBookTitle" VerticalAlignment="Top" Width="262"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="0">
+                <Label Content="Author" />
+                <TextBox HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" Name="txtAuthor" VerticalAlignment="Top" Width="262"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="0">
+                <Label Content="Date Added" />
+                <DatePicker Width="256" HorizontalAlignment="Left" Name="dpDateAdded"/>
+                <StackPanel Orientation="Vertical" Grid.Row="5" Grid.Column="0">
+                    <Label Content="Status" Margin="0,10,0,0"></Label>
+                    <ComboBox Name="cboStatus" SelectedValuePath="Name"  HorizontalAlignment="Left"  VerticalAlignment="Top" Width="120">
+                        <ComboBoxItem Content="Book available" Name="Actice" IsSelected="True" ></ComboBoxItem>
+                        <ComboBoxItem  Content="Out of Book" Name="Deactice"></ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+                <Label Content="Price" />
+                <TextBox HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" Name="txtPrice" VerticalAlignment="Top" Width="262"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1">
+                <Label Content="Quantity" />
+                <TextBox HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" Name="txtQuantity" VerticalAlignment="Top" Width="262"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="1">
+                <Label Content="Category" />
+                <ComboBox Width="260" HorizontalAlignment="Left" Name="cbCategory"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Name="btnSave" Content="Save"  VerticalAlignment="Center" Height="29" Width="109" HorizontalAlignment="Right" Click="btnSave_Click"/>
+                <Button Name="btnClose" Content="Close"  VerticalAlignment="Center" Height="29" Width="109" HorizontalAlignment="Right" Margin="10,0,0,0" Click="btnClose_Click"/>
+            </StackPanel>
+           
+        </Grid>
+    </Grid>
+
+</Window>

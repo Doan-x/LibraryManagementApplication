@@ -1,0 +1,83 @@
+﻿<Window x:Class="WPFApp.BorrowRecordDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="BorrowRecordDetail" Height="450" Width="800">
+    <Grid  VerticalAlignment="Top" Margin="10" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" MinHeight="30"/>
+            <RowDefinition Height="auto" MinHeight="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" MinWidth="300"/>
+            <ColumnDefinition Width="300*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Record" FontSize="30" FontWeight="Bold" Foreground="#FFE22A2A" />
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1" Margin="10,0,0,0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10" MinHeight="25">
+                <TextBox Name="txtSearch" MinWidth="300"/>
+                <Button Content="Search" Name="btnSearch" Width="119" Margin="10,0,0,0" Click="btnSearch_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <DataGrid AutoGenerateColumns="False" Name="dgBook" Grid.Row="3" Grid.Column="1" Margin="10,0,0,0" SelectionChanged="dgBook_SelectionChanged" IsReadOnly="True" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="BookID" Binding="{Binding book.BookId }" Visibility="Collapsed"/>
+                <DataGridTextColumn Header="Title" Binding="{Binding book.Title}" Width="*"/>
+                <DataGridTextColumn Header="Author" Binding="{Binding book.Author}" Width="*"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding book.Quantity}" Width="*"  Visibility="Collapsed"/>
+                <DataGridTextColumn Header="Remaining" Binding="{Binding remaining }" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" MinWidth="80"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="30"/>
+            </Grid.RowDefinitions>
+            <Label Content="Book Title" Grid.Row="0"/>
+            <Label Content="Author" Grid.Row="1"/>
+
+            <Label Content="FullName" Grid.Row="4"/>
+            <Label Content="CCCD" Grid.Row="3"/>
+            <Label Content="PhoneNumber" Grid.Row="5"/>
+            <Label Content="EmailAddress" Grid.Row="6"/>
+            <Label Content="Start Date" Grid.Row="7"/>
+            <Label Content="End Date" Grid.Row="8"/>
+            <TextBox Grid.Row="0" Grid.Column="1" Name="txtBookTitle" IsEnabled="False"/>
+            <TextBox Grid.Row="1" Grid.Column="1" Name="txtAuthor" IsEnabled="False"/>
+            <TextBox Grid.Row="2" Grid.Column="1" Name="txtBookId" Visibility="Collapsed"/>
+
+            <TextBox Grid.Row="3" Grid.Column="1" Name="txtCCCD" LostFocus="FindCCCD"/>
+            <TextBox Grid.Row="4" Grid.Column="1" Name="txtName"/>
+            <TextBox Grid.Row="5" Grid.Column="1" Name="txtPhoneNumber"/>
+            <TextBox Grid.Row="6" Grid.Column="1" Name="txtEmailAddress"/>
+            <DatePicker Grid.Column="1" HorizontalAlignment="Left" Grid.Row="7" Name="dpStartDate"/>
+            <DatePicker Grid.Column="1" HorizontalAlignment="Left" Grid.Row="8" Name="dpEndDate"/>
+            <StackPanel Orientation="Horizontal" Grid.Row="10" Grid.ColumnSpan="2">
+                <Button Content="Reset" Grid.Row="10" HorizontalAlignment="Left" Grid.ColumnSpan="2"  Width="100" Name="Reset" Click="Reset_Click" Margin="0,0,10,0"/>
+                <Button Content="Save" Grid.Row="10"  Name="btnSave" Click="btnSave_Click" HorizontalAlignment="Left" Width="100" Margin="0,0,10,0" />
+          
+                <Button Content="Close" Grid.Row="10" HorizontalAlignment="Left" Grid.ColumnSpan="2"  Width="100" Name="Close" Click="Close_Click"/>
+            </StackPanel>
+            
+        </Grid>
+    </Grid>
+
+</Window>

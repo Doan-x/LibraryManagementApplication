@@ -1,0 +1,78 @@
+﻿<Window x:Class="WPFApp.BrowseReservations"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="BrowseReservations" Height="450" Width="1000">
+    <Grid>
+        <Grid  VerticalAlignment="Top" Margin="10" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" MinHeight="30"/>
+                <RowDefinition Height="auto" MinHeight="30"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" MinWidth="150"/>
+                <ColumnDefinition Width="300*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Resevation" FontSize="30" FontWeight="Bold" Foreground="#FFE22A2A" Margin="10,0,0,0" />
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1" Margin="10,0,0,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10" MinHeight="25">
+                    <TextBox Name="txtSearch" MinWidth="300"/>
+                    <Button Content="Search" Name="btnSearch" Width="119" Margin="10,0,0,0" Click="btnSearch_Click"/>
+                </StackPanel>
+            </StackPanel>
+            <DataGrid AutoGenerateColumns="False" Name="dgReservations" Grid.Row="3" Grid.Column="1" Margin="10,0,0,0" SelectionChanged="dgBook_SelectionChanged" IsReadOnly="True" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="BookID" Binding="{Binding Borrow.Book.BookId}" Visibility="Collapsed"/>
+                    <DataGridTextColumn Header="BookID" Binding="{Binding ReservationId}" Visibility="Collapsed"/>
+                    <DataGridTextColumn Header="UserId" Binding="{Binding User.UserId  }" Width="*" Visibility="Collapsed"/>
+                    <DataGridTextColumn Header="FullName" Binding="{Binding User.FullName}" Width="*"/>
+                    <DataGridTextColumn Header="PhoneNumber" Binding="{Binding User.PhoneNumber}" Width="*"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding User.Email}" Width="*"/>
+                    <DataGridTextColumn Header="CCCD" Binding="{Binding User.Cccd}" Width="*"/>
+                    <DataGridTextColumn Header="Book Title" Binding="{Binding Borrow.Book.Title}" Width="*"/>
+                    <DataGridTextColumn Header="Book Author" Binding="{Binding Borrow.Book.Author}" Width="*"/>                    
+                    <DataGridTextColumn Header="ReservationDate" Binding="{Binding ReservationDate }" Width="*"/>
+                    <DataGridTemplateColumn Header="Actions" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="btnDelete" Content="Delete" Click="btnDelete_Click" Margin="10,0,10,0" ></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Grid Grid.Row="3">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+                    <RowDefinition Height="auto" MinHeight="20"/>
+
+                </Grid.RowDefinitions>
+
+
+                <Label Content="Start Date" Grid.Row="0" FontWeight="Bold" FontSize="16"/>
+                <Label Content="End Date" Grid.Row="2" FontSize="16" FontWeight="Bold"/>
+
+                <DatePicker  HorizontalAlignment="Left" Name="dpStartDate" Margin="0,31,0,0" Grid.RowSpan="2" Width="163" FontSize="18"/>
+                <DatePicker  HorizontalAlignment="Left" Grid.Row="2" Name="dpEndDate" FontSize="16" Margin="0,31,0,20" Grid.RowSpan="3" Width="163"/>
+                <Button Content="Confirm" Grid.Row="5" Grid.ColumnSpan="2" Margin="87,0,0,0" Name="btnConfirm"  FontSize="18" FontWeight="Bold" Click="btnConfirm_Click" />
+                <TextBox Name="txtUserId" Visibility="Collapsed" Grid.Row="6"/>
+                <TextBox Name="txtBookId" Visibility="Collapsed" Grid.Row="6"/>
+                <TextBox Name="txtBorrowId" Visibility="Collapsed"/>
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

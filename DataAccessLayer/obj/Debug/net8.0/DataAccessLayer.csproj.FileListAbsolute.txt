@@ -1,0 +1,30 @@
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\GitHub\LibraryManagementApplication\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

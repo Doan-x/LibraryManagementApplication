@@ -1,0 +1,210 @@
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\WPFApp.exe
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\appsettings.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\WPFApp.deps.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\WPFApp.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\WPFApp.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Services.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\Services.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\AdminMainWindow.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BookDetail.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BookManagement.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BorrowRecordDetail.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BorrowRecorded.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BrowseReservations.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\LoginForm.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\Reservation.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserDetail.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserMainWindow.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserManagementWindow.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\AdminMainWindow.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BookDetail.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BookManagement.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BorrowRecordDetail.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BorrowRecorded.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\BrowseReservations.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\LoginForm.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\Reservation.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserDetail.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserMainWindow.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\UserManagementWindow.baml
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.g.resources
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\refint\WPFApp.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\SignUpWindow.g.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\WPFApp\obj\Debug\net8.0-windows\SignUpWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\WPFApp.exe
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\appsettings.json
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\WPFApp.deps.json
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\WPFApp.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\WPFApp.pdb
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Services.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\Services.pdb
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\GitHub\LibraryManagementApplication\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\AdminMainWindow.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BookDetail.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BookManagement.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BorrowRecordDetail.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BorrowRecorded.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BrowseReservations.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\LoginForm.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\Reservation.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\SignUpWindow.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserDetail.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserMainWindow.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserManagementWindow.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\AdminMainWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BookDetail.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BookManagement.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BorrowRecordDetail.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BorrowRecorded.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\BrowseReservations.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\LoginForm.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\Reservation.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\SignUpWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserDetail.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserMainWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\UserManagementWindow.baml
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.g.resources
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\refint\WPFApp.dll
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.pdb
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+D:\GitHub\LibraryManagementApplication\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll

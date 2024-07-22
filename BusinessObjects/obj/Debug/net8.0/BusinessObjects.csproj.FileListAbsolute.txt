@@ -1,0 +1,28 @@
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\SU24\PRN212\Project\New folder\PRN212_PROJECT\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\GitHub\LibraryManagementApplication\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\GitHub\LibraryManagementApplication\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\GitHub\LibraryManagementApplication\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

@@ -1,0 +1,50 @@
+﻿<Window x:Class="WPFApp.UserManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="UserManagementWindow" Height="450" Width="1200">
+    <Grid Margin="10,0,7,0" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="70"/>
+            <RowDefinition Height="Auto" MinHeight="3"/>
+            <RowDefinition Height="Auto" MinHeight="38.923"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Label FontWeight="Bold" FontSize="24" Margin="0,10,0,0" Foreground="#FFCE1616" Content="Manage User"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="0,0,0,321" Grid.RowSpan="2">
+            <StackPanel Orientation="Horizontal" Width="651">
+                <TextBox Name="txtSearch" MinWidth="300" Margin="0,0,20,0" HorizontalAlignment="Center" />
+                <Button Name="btnSearch" Content="Search" MinWidth="80" Click="btnSearch_Click" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="0,0,0,321" Grid.RowSpan="3">
+
+        </StackPanel>
+        <DataGrid IsReadOnly="True"  x:Name="dgUsers" AutoGenerateColumns="False" Grid.Row="3" Margin="0,10,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="UserId" Binding="{Binding user.UserId}" Width="*"/>
+                <DataGridTextColumn Header="Fullname" Binding="{Binding user.FullName}" Width="*"/>
+                <DataGridTextColumn Header="PhoneNumber" Binding="{Binding user.PhoneNumber}" Width="*"/>
+                <DataGridTextColumn Header="Cccd" Binding="{Binding user.Cccd}" Width="*"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding user.Email}" Width="*"/>
+                <DataGridTextColumn Header="BookBorrowing" Binding="{Binding borrowing}" Width="*"/>
+                <DataGridTextColumn Header="Returnedbookslate" Binding="{Binding returnedLate}" Width="*"/>
+                <DataGridTextColumn Header="BookBorrowed" Binding="{Binding borrowed}" Width="*"/>
+                <DataGridTextColumn Header="ErrolTime" Binding="{Binding user.DateJoined}" Width="*"/>
+                <DataGridTemplateColumn Header="Action" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="btnDelete" Content=" Delete " Click="BtnDelete_Click" HorizontalAlignment="Center" Width="50"></Button>
+                        </DataTemplate>
+
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

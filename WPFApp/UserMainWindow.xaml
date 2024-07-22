@@ -1,0 +1,84 @@
+﻿<Window x:Class="WPFApp.UserMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="UserMainWindow" Height="450" Width="1000">
+    <Grid  VerticalAlignment="Top" Margin="10" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" MinHeight="30"/>
+            <RowDefinition Height="auto" MinHeight="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" MinWidth="120"/>            
+            <ColumnDefinition Width="auto" MinWidth="300"/>
+            <ColumnDefinition Width="300*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="2" Margin="0,0,10,0">
+            <Button Content="User Information" Height="50" Name="btnUserInformation" Click="btnUserInformation_Click"/>
+            <Button Content="Reservation" Height="53" Margin="0,10,0,0" Name="btnReservation" Click="btnReservation_Click" />
+            <Button Content="Log out" Height="53" Margin="0,10,0,0" Name="btnLogout" Click="btnLogout_Click" />
+        </StackPanel>
+
+        <Label Content="User Information" FontSize="30" FontWeight="Bold" Foreground="#FFE22A2A"  Grid.Column="1" Margin="0,0,0,10"/>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" >
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10" MinHeight="25">
+                <TextBox Name="txtSearch" MinWidth="300"/>
+                <Button Content="Search" Name="btnSearch" Width="119" Margin="10,0,0,0" Click="btnSearch_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <DataGrid AutoGenerateColumns="False" Name="dgBorrow" Grid.Row="3" Grid.Column="2"  SelectionChanged="dgBorrow_SelectionChanged" IsReadOnly="True" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="BookId" Binding="{Binding borrow.BookId }" Visibility="Collapsed"/>
+                <DataGridTextColumn Header="BookTitle" Binding="{Binding borrow.Book.Title}" Width="*"/>
+                <DataGridTextColumn Header="Author" Binding="{Binding borrow.Book.Author}" Width="*"/>
+                <DataGridTextColumn Header="Borrowed Start Date" Binding="{Binding borrow.StartDate}" Width="*" />
+                <DataGridTextColumn Header="Borrowed End Date" Binding="{Binding borrow.EndDate }" Width="*"/>
+                <DataGridTextColumn Header="Returned Date" Binding="{Binding borrow.ReturnDate }" Width="*"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding status}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Grid Grid.Row="3" Grid.Column="1" Margin="0,0,10,0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" MinWidth="80"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="20"/>
+                <RowDefinition Height="auto" MinHeight="30"/>
+            </Grid.RowDefinitions>
+            <Label Content="UserId" Grid.Row="0"/>
+            <Label Content="FullName" Grid.Row="1"/>
+            <Label Content="CCCD" Grid.Row="2"/>
+            <Label Content="PhoneNumber" Grid.Row="3"/>
+            <Label Content="EmailAddress" Grid.Row="4"/>
+            <Label Content="Password" Grid.Row="5" />
+            <Label Content="Enrrol Time" Grid.Row="6" />
+            <TextBox Grid.Row="2" Grid.Column="1" Name="txtName"/>
+            <TextBox Grid.Row="1" Grid.Column="1" Name="txtCCCD"/>
+            
+            <TextBox Grid.Row="3" Grid.Column="1" Name="txtPhoneNumber"/>
+            <TextBox Grid.Row="4" Grid.Column="1" Name="txtEmailAddress"/>
+
+            <TextBox Grid.Row="5" Grid.Column="1" Name="txtPass"/>
+            <DatePicker Grid.Row="6" Grid.Column="1" Name="dpEnrrolTime" IsEnabled="False"/>
+
+            <Button Content="Save" Grid.Row="8" Grid.ColumnSpan="2" Margin="87,0,0,0" Name="btnSave" Click="btnSave_Click" />
+            <TextBox Grid.Row="0" Grid.Column="1" Name="txtUserId" IsEnabled="False" />
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BorrowRecorded.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BorrowRecordDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BrowseReservations.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Reservation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUpWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdminMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BorrowRecorded.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BorrowRecordDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BrowseReservations.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Reservation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUpWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserManagementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
